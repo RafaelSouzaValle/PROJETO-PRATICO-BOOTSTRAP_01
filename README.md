@@ -3,7 +3,7 @@
 
 ### Welcome to Bootstrap practice project 1!
 
-This repository contains a exemple that can help to start a simple website using Bootstrap Framework 3.3.7.
+This repository contains an exemple that can help to start a simple website using Bootstrap Framework 3.3.7.
 
 My objective is training and share content with other people through this files.
 
