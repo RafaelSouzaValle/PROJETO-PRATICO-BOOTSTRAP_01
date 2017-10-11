@@ -23,3 +23,18 @@ Você pode fazer solicitações de pull request, se desejar.
 
 #### Arquivos de estrutura já incluídos no projeto (JS, CSS e Fonts)
 
+
+# Current project's state:
+
+## Desktop:
+
+![Current State in Desktop](https://github.com/RafaelSouzaValle/PROJETO-PRATICO-BOOTSTRAP_01/blob/master/img/imagesite01.png)
+
+## Mobile 01
+
+![Current State in Mobile](https://github.com/RafaelSouzaValle/PROJETO-PRATICO-BOOTSTRAP_01/blob/master/img/mob-version01.png)
+
+
+## Mobiel 02 - Collaplable menu opened
+
+![Current State in Mobile](https://github.com/RafaelSouzaValle/PROJETO-PRATICO-BOOTSTRAP_01/blob/master/img/mob-version02.png)
