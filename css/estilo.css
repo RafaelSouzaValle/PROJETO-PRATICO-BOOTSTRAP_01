@@ -1,0 +1,20 @@
+section {
+	min-height: 100vh;
+}
+
+.width-img-adjust {
+	min-width:50vw;
+}
+
+.alpha-effectimg {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.nav-padding {
+	padding-top: 50px;
+}
+
+.p-carousel {
+	padding-top: 500px;
+}
