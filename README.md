@@ -7,10 +7,10 @@ This repository contains an exemple that can help to start a simple website usin
 
 My objective is training and share content with other people through this files.
 
-You can make a pull requests to colaborate, if you want.
+You can make a pull request to colaborate, if you want.
 
-#### Framework files already included in the repository project (JS, CSS and Fonts)
-
+#### The framework files are already included in the repository project (JS, CSS and Fonts)
+---
 ## Simples Layout Bootstrap, passo a passo.
 
 ### Bem-vindo ao projeto prático 1 com Bootstrap!
@@ -21,8 +21,9 @@ Meu objetivo é treinar e compartilhar conteúdo com outras pessoas através des
 
 Você pode fazer solicitações de pull request, se desejar.
 
-#### Arquivos de estrutura já incluídos no projeto (JS, CSS e Fonts)
+#### Os arquivos de estrutura já incluídos no projeto (JS, CSS e Fonts)
 
+---
 
 # Current project's state:
 
