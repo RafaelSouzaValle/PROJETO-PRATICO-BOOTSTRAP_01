@@ -1,5 +1,5 @@
 section {
-	min-height: 100vh;
+	min-height: 70vh;
 }
 
 .width-img-adjust {
@@ -15,6 +15,6 @@ section {
 	padding-top: 50px;
 }
 
-.p-carousel {
-	padding-top: 500px;
+.content-padding {
+	padding-top: 60px;
 }
