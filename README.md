@@ -36,6 +36,6 @@ Você pode fazer solicitações de pull request, se desejar.
 ![Current State in Mobile](https://github.com/RafaelSouzaValle/PROJETO-PRATICO-BOOTSTRAP_01/blob/master/img/mob-version01.png)
 
 
-## Mobiel 02 - Collaplable menu opened
+## Mobile 02 - Collapsable menu opened
 
 ![Current State in Mobile](https://github.com/RafaelSouzaValle/PROJETO-PRATICO-BOOTSTRAP_01/blob/master/img/mob-version02.png)
